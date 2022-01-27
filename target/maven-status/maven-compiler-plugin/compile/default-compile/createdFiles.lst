@@ -1,0 +1,11 @@
+com\gdm\unitbv\itsec\spoofing\model\Credentials.class
+com\gdm\unitbv\itsec\spoofing\util\EmailAddressValidator.class
+com\gdm\unitbv\itsec\spoofing\service\JavaMailService$2.class
+com\gdm\unitbv\itsec\spoofing\service\JavaMailService$1.class
+com\gdm\unitbv\itsec\spoofing\util\MailProperties.class
+com\gdm\unitbv\itsec\spoofing\factory\MailFactory.class
+com\gdm\unitbv\itsec\spoofing\app\App.class
+com\gdm\unitbv\itsec\spoofing\message\MailMessage.class
+com\gdm\unitbv\itsec\spoofing\model\EmailMessageType.class
+com\gdm\unitbv\itsec\spoofing\service\JavaMailService.class
+com\gdm\unitbv\itsec\spoofing\factory\MailFactory$1.class
